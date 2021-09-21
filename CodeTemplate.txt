@@ -2,26 +2,26 @@ CODE TEMPLATE:
 //This is a single line comment (notes that won't be read as instructions to the computer).
 //Different syntax is used for comments depending on the language.
 
-//CHANGE ME: Add the title of your game
-//Add your first and last name 
+//Shadowverse
+//John Yoon
 
 
-if (CHANGE ME: condition # 1) {
-    //Add event below
+if (there is a follower with ward in play) {
+    attack the folllower with ward 
 } else {
-    //Add event below
+    attack any enemy
 }
 
-if (CHANGE ME: condition # 2) {
-    //Add event below
+if (you have any evolvetion points) {
+    use one to evolve an allied follower
 } else {
-    //Add event below
+    do not evolve an allied follower
 }
 
-if (CHANGE ME: condition # 3) {
-    //Add event below
+if (you are going second) {
+    draw two cards
 } else {
-    //Add event below
+    draw one card
 }
 
 
