@@ -15,7 +15,7 @@ if (there is a follower with ward in play) {
 if (you have any evolvetion points) {
     use one to evolve an allied follower
 } else {
-    do not evolve an allied follower
+    don't evolve an allied follower
 }
 
 if (you are going second) {
